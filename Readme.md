@@ -1,3 +1,3 @@
 Test Project for syncing with GitHub
 
-Commit 7
+Commit 8
